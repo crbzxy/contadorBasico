@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/contadorBasico/static/css/main.d14d836b.css",
-    "main.js": "/contadorBasico/static/js/main.c92faa43.js",
+    "main.css": "/contadorBasico/static/css/main.d70e1e81.css",
+    "main.js": "/contadorBasico/static/js/main.ecedf8c9.js",
     "index.html": "/contadorBasico/index.html",
-    "main.d14d836b.css.map": "/contadorBasico/static/css/main.d14d836b.css.map",
-    "main.c92faa43.js.map": "/contadorBasico/static/js/main.c92faa43.js.map"
+    "main.d70e1e81.css.map": "/contadorBasico/static/css/main.d70e1e81.css.map",
+    "main.ecedf8c9.js.map": "/contadorBasico/static/js/main.ecedf8c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.d14d836b.css",
-    "static/js/main.c92faa43.js"
+    "static/css/main.d70e1e81.css",
+    "static/js/main.ecedf8c9.js"
   ]
 }
