@@ -26,6 +26,12 @@ function Contador() {
           </Button>
         </Row>
       </Container>
+      <footer>
+        <p>
+          <a href="http://carlosboyzo.com">CBO</a> 2022 - Desarrollo de
+          Aplicaciones Web
+        </p>
+      </footer>
     </>
   );
 }

@@ -11,14 +11,26 @@
   min-height: 100vh;
   height: auto;
   color: white !important;
+  background: #000046; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #1cb5e0,
+    #000046
+  ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
-    to top,
-    #0f2027,
-    #203a43,
-    #2c5364
+    to bottom,
+    #1cb5e0,
+    #000046
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+h1 {
+  font-weight: bolder !important;
+  font-size: 3.5rem !important;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -64,4 +76,19 @@
 
 .btn {
   max-width: 220px;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #61dafb !important;
+}
+
+strong {
+  font-weight: bolder;
+  color: #61dafb !important;
+  font-size: larger;
+  transition: all ease-in-out;
+}
+
+a {
+  color: #61dafb !important;
+  text-decoration: none;
 }
