@@ -1,5 +1,6 @@
 import "./App.css";
 import Contador from "./components/Contador";
+import Listado from "./components/Listado";
 //import Hola from './components/Hola';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
 
             <h1>Contador Básico</h1>
             <Contador />
+            <Listado />
           </div>
         </div>
 
