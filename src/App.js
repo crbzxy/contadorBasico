@@ -1,6 +1,7 @@
 import "./App.css";
-import Contador from "./components/Contador";
-import Listado from "./components/Listado";
+//import Contador from "./components/Contador";
+//import Listado from "./components/Listado";
+import Temperatura from "./components/Temperatura";
 //import Hola from './components/Hola';
 
 function App() {
@@ -12,8 +13,9 @@ function App() {
           <div className="col-md-12">
 
             <h1>Contador Básico</h1>
-            <Contador />
-            <Listado />
+
+            <Temperatura />
+
           </div>
         </div>
 
